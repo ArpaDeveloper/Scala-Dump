@@ -42,8 +42,8 @@ object assignment1 {
   }
 
   def task7(): Unit={
-    var firstName: String="Aarni"
-    var lastName: String="Viljanen"
+    var firstName: String="John"
+    var lastName: String="Smith"
     var fullName: String=firstName+" "+lastName
   }
 
